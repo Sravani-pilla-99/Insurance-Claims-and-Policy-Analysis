@@ -16,7 +16,7 @@ The goal is to enhance decision-making processes, improve customer satisfaction,
 - **Claim Status Distribution:** Rejected (4.4K), Settled (3.4K), Pending (2.3K).
 - **Customer Feedback:** 50% customers rated the service as "Excellent", while need for improvement identified through sentiment analysis(customer service,operations etc) .
 
-## Results
+## Impact
 - Enhanced decision-making through data-driven insights.
 - Identified key areas for improving customer satisfaction.
 - Improved operational efficiency in claims processing.
